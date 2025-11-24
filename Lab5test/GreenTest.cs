@@ -1,4 +1,4 @@
-﻿using System.Transactions;
+using System.Transactions;
 
 namespace Lab5test
 {
@@ -774,7 +774,7 @@ namespace Lab5test
                 Assert.AreEqual(answer[i].Item1.Length, test[i].Item1.Length);
                 for (int j = 0; j < answer[i].Item1.Length; j++)
                 {
-                        Assert.AreEqual(answer[i].Item1[j], test[i].Item1[j]);
+                    Assert.AreEqual(answer[i].Item1[j], test[i].Item1[j]);
                 }
                 Assert.AreEqual(answer[i].Item2.Length, test[i].Item2.Length);
                 for (int j = 0; j < answer[i].Item2.Length; j++)
