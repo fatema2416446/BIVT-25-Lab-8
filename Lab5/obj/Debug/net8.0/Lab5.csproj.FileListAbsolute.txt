@@ -1,0 +1,15 @@
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\bin\Debug\net8.0\Lab5.exe
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\bin\Debug\net8.0\Lab5.deps.json
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\bin\Debug\net8.0\Lab5.dll
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\bin\Debug\net8.0\Lab5.pdb
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\Lab5.sourcelink.json
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\Lab5.dll
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\refint\Lab5.dll
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\Lab5.pdb
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+E:\codes_c#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Lab5\obj\Debug\net8.0\ref\Lab5.dll
