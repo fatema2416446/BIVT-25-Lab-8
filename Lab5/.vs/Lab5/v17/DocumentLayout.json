@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1A61-B7E4-27E5-3106-75DF37A1C47F}|..\\Lab5test\\Lab5test.csproj|c:\\misisstudycs\\bivt-25-lab-5_afanasev\\lab5test\\whitetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab5.csproj|c:\\misisstudycs\\bivt-25-lab-5_afanasev\\lab5\\purple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab5.csproj|solutionrelative:purple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1A61-B7E4-27E5-3106-75DF37A1C47F}|..\\Lab5test\\Lab5test.csproj|c:\\misisstudycs\\bivt-25-lab-5_afanasev\\lab5test\\purpletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab5.csproj|c:\\misisstudycs\\bivt-25-lab-5_afanasev\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1A61-B7E4-27E5-3106-75DF37A1C47F}|..\\Lab5test\\Lab5test.csproj|c:\\misisstudycs\\bivt-25-lab-5_afanasev\\lab5test\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WhiteTest.cs",
+              "DocumentMoniker": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5test\\WhiteTest.cs",
+              "RelativeDocumentMoniker": "..\\Lab5test\\WhiteTest.cs",
+              "ToolTip": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5test\\WhiteTest.cs",
+              "RelativeToolTip": "..\\Lab5test\\WhiteTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:38:50.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:53:36.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Purple.cs",
+              "DocumentMoniker": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5\\Purple.cs",
+              "RelativeDocumentMoniker": "Purple.cs",
+              "ToolTip": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5\\Purple.cs",
+              "RelativeToolTip": "Purple.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAAALQBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:26:36.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurpleTest.cs",
+              "DocumentMoniker": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5test\\PurpleTest.cs",
+              "RelativeDocumentMoniker": "..\\Lab5test\\PurpleTest.cs",
+              "ToolTip": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5test\\PurpleTest.cs",
+              "RelativeToolTip": "..\\Lab5test\\PurpleTest.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAA0BAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:25:57.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5test\\Data.cs",
+              "RelativeDocumentMoniker": "..\\Lab5test\\Data.cs",
+              "ToolTip": "C:\\MisisStudyCS\\BIVT-25-Lab-5_Afanasev\\Lab5test\\Data.cs",
+              "RelativeToolTip": "..\\Lab5test\\Data.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:40:04.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
