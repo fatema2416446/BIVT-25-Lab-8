@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0bb4157e_002Dede1_002D4110_002Dad94_002Df5b611192e70/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.PurpleTest.Test01&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test01&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test02&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test03&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test04&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test05&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test06&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test07&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test08&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test09&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa90c983_002Dec69_002D43d6_002Dab89_002D56782b24a314/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test08" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::17CF1A61-B7E4-27E5-3106-75DF37A1C47F::net8.0::Lab5test.BlueTest.Test08&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
