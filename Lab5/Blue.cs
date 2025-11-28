@@ -346,6 +346,36 @@ namespace Lab5
         {
 
             // code here
+            if (matrix == null) return;
+
+            int rows = matrix.GetLength(0);
+            int cols = matrix.GetLength(1);
+
+            for (int j = 0; j < cols; j++)
+            {
+                int maxRow = 0;
+                int maxVal = matrix[0, j];
+
+                for (int i = 1; i < rows; i++)
+                {
+                    if (matrix[i, j] > maxVal)
+                    {
+                        maxVal = matrix[i, j];
+                        maxRow = i;
+                    }
+                }
+
+                if (maxRow < rows / 2)
+                {
+                    int sum = 0;
+                    for (int i = maxRow + 1; i < rows; i++)
+                    {
+                        sum += matrix[i, j];
+                    }
+                    matrix[0, j] = sum;
+                }
+            }
+        
 
 
 
@@ -357,6 +387,39 @@ namespace Lab5
 
             // code here
 
+            if (matrix == null) return;
+            int rows = matrix.GetLength(0);
+            int cols = matrix.GetLength(1);
+            if (rows == 0 || cols == 0) return;
+
+            for (int i = 0; i + 1 < rows; i += 2)
+            {
+                int maxColOdd = 0;
+                int maxValOdd = matrix[i, 0];
+                for (int c = 1; c < cols; c++)
+                {
+                    if (matrix[i, c] > maxValOdd)
+                    {
+                        maxValOdd = matrix[i, c];
+                        maxColOdd = c;
+                    }
+                }
+
+                int maxColEven = 0;
+                int maxValEven = matrix[i + 1, 0];
+                for (int c = 1; c < cols; c++)
+                {
+                    if (matrix[i + 1, c] > maxValEven)
+                    {
+                        maxValEven = matrix[i + 1, c];
+                        maxColEven = c;
+                    }
+                }
+
+                int tmp = matrix[i, maxColOdd];
+                matrix[i, maxColOdd] = matrix[i + 1, maxColEven];
+                matrix[i + 1, maxColEven] = tmp;
+            }
             // end
 
         }
@@ -364,6 +427,32 @@ namespace Lab5
         {
 
             // code here
+
+            if (matrix == null) return;
+
+            int n = matrix.GetLength(0);
+            if (n != matrix.GetLength(1) || n == 0) return;
+
+            int maxIdx = 0;
+            int maxVal = matrix[0, 0];
+
+            for (int i = 1; i < n; i++)
+            {
+                if (matrix[i, i] > maxVal)
+                {
+                    maxVal = matrix[i, i];
+                    maxIdx = i;
+                }
+            }
+
+            for (int r = 0; r < maxIdx; r++)
+            {
+                for (int c = r + 1; c < n; c++)
+                {
+                    matrix[r, c] = 0;
+                }
+        }
+
 
             // end
 
@@ -373,6 +462,42 @@ namespace Lab5
 
             // code here
 
+            if (matrix == null) return;
+            int rows = matrix.GetLength(0);
+            int cols = matrix.GetLength(1);
+            if (rows == 0 || cols == 0) return;
+
+            int[] posCount = new int[rows];
+            for (int i = 0; i < rows; i++)
+            {
+                int cnt = 0;
+                for (int j = 0; j < cols; j++)
+                {
+                    if (matrix[i, j] > 0) cnt++;
+                }
+                posCount[i] = cnt;
+            }
+
+            for (int i = 1; i < rows; i++)
+            {
+                int keyCount = posCount[i];
+                int[] keyRow = new int[cols];
+                for (int c = 0; c < cols; c++) keyRow[c] = matrix[i, c];
+
+                int j = i - 1;
+                while (j >= 0 && posCount[j] < keyCount)
+                {
+                    posCount[j + 1] = posCount[j];
+                    for (int c = 0; c < cols; c++) matrix[j + 1, c] = matrix[j, c];
+                    j--;
+                }
+
+                posCount[j + 1] = keyCount;
+                for (int c = 0; c < cols; c++) matrix[j + 1, c] = keyRow[c];
+            }
+
+
+
             // end
 
         }
@@ -381,6 +506,49 @@ namespace Lab5
             int[][] answer = null;
 
             // code here
+
+
+            if (array == null) return null;
+            int totalSum = 0;
+            int totalCount = 0;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                for (int j = 0; j < array[i].Length; j++)
+                {
+                    totalSum += array[i][j];
+                    totalCount++;
+                }
+            }
+
+            double globalAvg = (double)totalSum / totalCount;
+
+            int keepCount = 0;
+            for (int i = 0; i < array.Length; i++)
+            {
+                int sum = 0;
+                for (int j = 0; j < array[i].Length; j++) sum += array[i][j];
+                double avg = (double)sum / array[i].Length;
+
+                if (avg >= globalAvg) keepCount++;
+            }
+
+            answer = new int[keepCount][];
+            int index = 0;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                int sum = 0;
+                for (int j = 0; j < array[i].Length; j++) sum += array[i][j];
+                double avg = (double)sum / array[i].Length;
+
+                if (avg >= globalAvg)
+                {
+                    int[] row = new int[array[i].Length];
+                    for (int j = 0; j < row.Length; j++) row[j] = array[i][j];
+                    answer[index++] = row;
+                }
+            }
 
             // end
 
