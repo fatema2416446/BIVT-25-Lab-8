@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\root\\source\\repos\\BIVT-25-Lab-5\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab5.csproj|c:\\users\\root\\source\\repos\\bivt-25-lab-5\\lab5\\blue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab5.csproj|solutionrelative:blue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1A61-B7E4-27E5-3106-75DF37A1C47F}|..\\Lab5test\\Lab5test.csproj|c:\\users\\root\\source\\repos\\bivt-25-lab-5\\lab5test\\bluetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1A61-B7E4-27E5-3106-75DF37A1C47F}|..\\Lab5test\\Lab5test.csproj|c:\\users\\root\\source\\repos\\bivt-25-lab-5\\lab5test\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\BIVT-25-Lab-5\\Lab5test\\Data.cs",
+              "RelativeDocumentMoniker": "..\\Lab5test\\Data.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\BIVT-25-Lab-5\\Lab5test\\Data.cs",
+              "RelativeToolTip": "..\\Lab5test\\Data.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:27:05.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlueTest.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\BIVT-25-Lab-5\\Lab5test\\BlueTest.cs",
+              "RelativeDocumentMoniker": "..\\Lab5test\\BlueTest.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\BIVT-25-Lab-5\\Lab5test\\BlueTest.cs",
+              "RelativeToolTip": "..\\Lab5test\\BlueTest.cs",
+              "ViewState": "AgIAALwBAAAAAAAAAAAkwLIBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:42:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blue.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\BIVT-25-Lab-5\\Lab5\\Blue.cs",
+              "RelativeDocumentMoniker": "Blue.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\BIVT-25-Lab-5\\Lab5\\Blue.cs",
+              "RelativeToolTip": "Blue.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAuwCABAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:34:43.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
